@@ -8,7 +8,8 @@ Original file is located at
 
 # **Sentiment Based Product Recommendation System** 
 
-# **Deployed application in Heroku link**  - https://product-recommendation-9451.herokuapp.com/
+# **Deployed application in Heroku link**  -
+https://sentiment2322.herokuapp.com/
 
 ---
 
